@@ -1,25 +1,21 @@
-# Heading 1
+# Simple Recipes Website 
 
-Testing the waters..
+This simple project demonstrates proper usage of semantic html elements utilizing just a handful of them (at least attempts to)
 
-## Heading 2
+## What's included:
 
-Testing blockquotes
+### A basic index.html as homepage
+- Includes links to recipes' pages and website title
+### Individual recipe pages
+- Includes 3 distinct recipes
+- Includes link back to homepage
+- Each page has
+    - Name of the recipe
+    - An image of the recipe
+    - Description of the recipe
+    - Ingredients
+    - Steps to prepare the dish
 
-> Here is a blockquote
+---
 
-> Second line of blockquote
-
->> a nested blockquote
->> which happens to be a codeblock  
->>
->>```c
->>#include <stdio.h>
->>
->>int main(void)
->>{
->>  printf("hello world\n");
->>
->>  return 0;
->>}
->>```
+Intended for [The Odin Project](https://www.theodinproject.com/)
