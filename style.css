@@ -1,0 +1,22 @@
+body {
+  background-color: blanchedalmond;
+}
+
+
+li {
+ margin: 4px;
+ padding: 8px;
+ font-size: 16px;
+}
+
+li::marker {
+  color: #919E8F;
+}
+
+h1 {
+  color: #F494F4;
+}
+
+a {
+  color: #FF8000;
+}

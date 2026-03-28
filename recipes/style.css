@@ -1,0 +1,29 @@
+body {
+  background-color: blanchedalmond;
+  padding: 12px;
+}
+
+.nav-back {
+  color: #F494F4;
+}
+
+h1, h2, h3 {
+  color: #FF8000;
+}
+
+li::marker {
+  color: #919E8F;
+}
+
+li {
+  padding: 8px 0px;
+}
+
+.h2-container {
+  margin-bottom: 48px;
+  margin-top: 16px;
+}
+
+.h3-container {
+  margin: 24px auto;
+}
